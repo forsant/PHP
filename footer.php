@@ -4,15 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style-grid.css">
-    <title>Ma Page PHP</title>
+    <title>Document</title>
 </head>
-<body>
-   
-<?php
-include_once('entete_nav.php');
-include_once('index_centre.php');
-include_once('footer.php');
- ?>
 
-</body>
+<footer>
+    <div>Helder DOS SANTOS</div>
+    <div>&copy;DWWM 2023</div>
+</footer>
+
+
 </html>

@@ -7,12 +7,10 @@
     <title>Ma Page PHP</title>
 </head>
 <body>
-   
 <?php
 include_once('entete_nav.php');
-include_once('index_centre.php');
+include_once('tp_php_date_centre.php');
 include_once('footer.php');
- ?>
-
+?> 
 </body>
 </html>

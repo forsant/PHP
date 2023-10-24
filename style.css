@@ -1,0 +1,53 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+    margin:0;
+    padding:0;
+    font-size:25px;
+    text-align: center;
+}
+   
+   
+h1{
+    text-align: center;
+    font-size:50px;
+}
+
+.liens{
+    border:solid white;
+    background-color: rgba(0, 0, 0, 0.247);
+    border-radius: 20px;
+    padding:2%;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.stylephp{
+   
+    text-align: center;
+    text-decoration: none;
+    padding:5px;
+    margin:5px;
+    border:solid 2px;
+    border-radius: 15px;;
+    color:white;
+}
+a{
+    color:white;
+}
+
+.contenaire{
+    margin-top:40px;
+    padding:10px;
+    padding-bottom: 30px;
+    border: solid 5px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.11);
+}
+
+
+
